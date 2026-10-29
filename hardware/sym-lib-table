@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "banco_modulos")(type "KiCad")(uri "/home/vagrant/proyecto/hardware/banco_modulos.kicad_sym")(options "")(descr ""))
+)
