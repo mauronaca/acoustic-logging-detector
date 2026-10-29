@@ -1,5 +1,5 @@
 # Laboratorio KiCad + MCP + Claude Code (ver SPEC.md, sección "Laboratorio").
-# Todo corre dentro de la VM; sin carpeta compartida con Windows.
+# Todo corre dentro de la VM; el repo se comparte con Windows en /home/vagrant/proyecto.
 Vagrant.configure("2") do |config|
   config.vm.box = "bento/ubuntu-24.04"
   config.vm.hostname = "kicad-lab"
